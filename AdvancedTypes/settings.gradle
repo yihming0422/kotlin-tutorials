@@ -1,0 +1,3 @@
+rootProject.name = 'AdvancedTypes'
+include 'common'
+

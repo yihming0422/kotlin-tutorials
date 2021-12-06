@@ -1,0 +1,5 @@
+rootProject.name = 'Annotations'
+include ':apt:annotations'
+include ':apt:compiler'
+include ':apt:sample'
+
